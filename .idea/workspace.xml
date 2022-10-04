@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6aae2f-d51f-4906-bd0e-8c82a94c515f" name="Changes" comment="commit_1">
+    <list default="true" id="4d6aae2f-d51f-4906-bd0e-8c82a94c515f" name="Changes" comment="commit_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Computerlmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Computerlmpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Desktop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Monoblock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Monoblock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Netbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Nettop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Nettop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Notebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Notebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +74,21 @@
       <option name="presentableId" value="Default" />
       <updated>1664885173939</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit_2">
+      <created>1664895067990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664895067990</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit_2">
+      <created>1664895092892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664895092892</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_2" />
   </component>
 </project>

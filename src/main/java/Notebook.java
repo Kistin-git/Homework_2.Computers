@@ -5,5 +5,5 @@ public class Notebook extends PortableComputer {
             setHDD("ssd 250gb");
             setOZU("8gb");
     }
-    
+
 }

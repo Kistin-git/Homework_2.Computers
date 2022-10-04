@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6aae2f-d51f-4906-bd0e-8c82a94c515f" name="Changes" comment="">
+    <list default="true" id="4d6aae2f-d51f-4906-bd0e-8c82a94c515f" name="Changes" comment="commit_1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Computerlmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Computerlmpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Desktop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Monoblock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Monoblock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Netbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Netbook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Nettop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Nettop.java" afterDir="false" />
@@ -47,12 +48,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />

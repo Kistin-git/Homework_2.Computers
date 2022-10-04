@@ -1,22 +1,27 @@
 public class Computerlmpl implements Computer {
     public void turnon() {
         System.out.println();
-        System.out.println(getCPU() + " " + getOZU() + " " + getHDD());
+        System.out.println(getName() + " " + getCPU() + " " + getOZU() + " " + getHDD());
         System.out.println("Turned on");
+        System.out.println("");
     }
 
     public void turnoff() {
-        System.out.println(getCPU() + " " + getOZU() + " " + getHDD());
+        System.out.println(getName() + " " + getCPU() + " " + getOZU() + " " + getHDD());
         System.out.println("Turned off");
+        System.out.println("");
     }
 
     public void internetconnect() {
-        System.out.println(getCPU() + " " + getOZU() + " " + getHDD());
+        System.out.println(getName() + " " + getCPU() + " " + getOZU() + " " + getHDD());
         System.out.println("Is connected to the Internet");
+        System.out.println("");
     }
-    public String CPU;
-    public String OZU;
-    public String HDD;
+    private String CPU;
+    private String OZU;
+    private String HDD;
+
+    private String Name;
 
     public String getOZU() {
         return OZU;
@@ -40,5 +45,13 @@ public class Computerlmpl implements Computer {
 
     public void setCPU(String CPU) {
         this.CPU = CPU;
+    }
+
+    public String getName() {
+        return Name;
+    }
+
+    public void setName(String name) {
+        Name = name;
     }
 }

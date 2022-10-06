@@ -1,9 +1,12 @@
 public class Notebook extends PortableComputer {
+    private String CPU;
+    private String OZU;
+    private String HDD;
 
-    public Notebook() {
-            setCPU("intel i5");
-            setHDD("ssd 250gb");
-            setOZU("8gb");
+    public Notebook(String cpu,String ozu,String hdd) {
+            setCPU(cpu);
+            setHDD(ozu);
+            setOZU(hdd);
             setName("Notebook");
     }
 

@@ -7,12 +7,12 @@ public class Main {
 
         Computer[] Computer = new Computer[6];
 
-        Notebook notebook = new Notebook();
-        Server server = new Server();
-        Desktop desktop = new Desktop();
-        Netbook netbook = new Netbook();
-        Monoblock monoblock = new Monoblock();
-        Nettop nettop = new Nettop();
+        Notebook notebook = new Notebook("intel i7", "16gb ssd", "250gb");
+        Server server = new Server("intel i5", "8gb ssd", "300gb");
+        Desktop desktop = new Desktop("intel i7", "16gb ssd", "700gb","RTX2000");
+        Netbook netbook = new Netbook("intel i7", "8gb ssd", "250gb");
+        Monoblock monoblock = new Monoblock("intel i5", "8gb ssd", "120gb");
+        Nettop nettop = new Nettop("intel i7", "4gb ssd", "330gb");
 
         Computer[0] = notebook;
         Computer[1] = netbook;

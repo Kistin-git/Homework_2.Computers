@@ -1,8 +1,8 @@
 public class Server extends Computerlmpl{
-    public Server() {
-        setCPU("intel i5");
-        setHDD("ssd 250gb");
-        setOZU("8gb");
+    public Server(String cpu,String ozu,String hdd) {
+        setCPU(cpu);
+        setHDD(ozu);
+        setOZU(hdd);
         setName("Server");
     }
 }

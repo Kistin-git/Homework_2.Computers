@@ -1,8 +1,8 @@
 public class Monoblock extends Computerlmpl {
-    public Monoblock () {
-        setCPU("intel i5");
-        setHDD("ssd 250gb");
-        setOZU("8gb");
+    public Monoblock (String cpu,String ozu,String hdd) {
+        setCPU(cpu);
+        setHDD(ozu);
+        setOZU(hdd);
         setName("Monoblock");
     }
     Display display = new Display();

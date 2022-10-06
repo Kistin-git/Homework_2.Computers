@@ -1,8 +1,8 @@
 public class Netbook extends PortableComputer {
-    public Netbook () {
-        setCPU("intel i7");
-        setHDD("ssd 300gb");
-        setOZU("4gb");
+    public Netbook (String cpu,String ozu,String hdd) {
+        setCPU(cpu);
+        setHDD(ozu);
+        setOZU(hdd);
         setName("Netbook");
     }
     @Override

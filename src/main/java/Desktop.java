@@ -1,10 +1,10 @@
 public class Desktop extends Computerlmpl {
-    public Desktop () {
-        setCPU("intel i5");
-        setHDD("ssd 250gb");
-        setOZU("8gb");
+    public Desktop (String cpu,String ozu,String hdd,String videocard) {
+        setCPU(cpu);
+        setHDD(ozu);
+        setOZU(hdd);
         setName("Desktop");
-        setVideocard("RTX2000");
+        setVideocard(videocard);
     }
     private String Videocard;
 

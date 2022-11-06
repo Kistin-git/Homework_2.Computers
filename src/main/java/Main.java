@@ -22,9 +22,9 @@ public class Main {
         Computer[5] = desktop;
 
         for (int i = 0; i < 6; i++) {
-            Computer[i].turnon();
-            Computer[i].internetconnect();
-            Computer[i].turnoff();
+            Computer[i].turnOn();
+            Computer[i].internetConnect();
+            Computer[i].turnOff();
         }
 
 

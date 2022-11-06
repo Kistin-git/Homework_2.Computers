@@ -17,20 +17,20 @@ public class Desktop extends Computerlmpl {
     }
 
     @Override
-    public void turnon() {
+    public void turnOn() {
         System.out.println();
         System.out.println(getName() + " " + getCPU() + " " + getOZU() + " " + getHDD() + " " + getVideocard());
         System.out.println("Turned on");
         System.out.println("");
     }
     @Override
-    public void turnoff() {
+    public void turnOff() {
         System.out.println(getName() + " " + getCPU() + " " + getOZU() + " " + getHDD() + " " + getVideocard());
         System.out.println("Turned off");
         System.out.println("");
     }
     @Override
-    public void internetconnect() {
+    public void internetConnect() {
         System.out.println(getName() + " " + getCPU() + " " + getOZU() + " " + getHDD() + " " + getVideocard());
         System.out.println("Is connected to the Internet");
         System.out.println("");

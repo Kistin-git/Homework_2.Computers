@@ -4,7 +4,7 @@ import java.util.concurrent.Callable;
 public class Main {
 
     public static void main(String[] args) {
-
+        //some micro change to create a pull request
         Computer[] Computer = new Computer[6];
 
         Notebook notebook = new Notebook("intel i7", "16gb ssd", "250gb");
@@ -22,9 +22,9 @@ public class Main {
         Computer[5] = desktop;
 
         for (int i = 0; i < 6; i++) {
-            Computer[i].turnon();
-            Computer[i].internetconnect();
-            Computer[i].turnoff();
+            Computer[i].turnOn();
+            Computer[i].internetConnect();
+            Computer[i].turnOff();
         }
 
 

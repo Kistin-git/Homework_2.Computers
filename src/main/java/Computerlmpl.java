@@ -1,18 +1,18 @@
 public class Computerlmpl implements Computer {
-    public void turnon() {
+    public void turnOn() {
         System.out.println();
         System.out.println(getName() + " " + getCPU() + " " + getOZU() + " " + getHDD());
         System.out.println("Turned on");
         System.out.println("");
     }
 
-    public void turnoff() {
+    public void turnOff() {
         System.out.println(getName() + " " + getCPU() + " " + getOZU() + " " + getHDD());
         System.out.println("Turned off");
         System.out.println("");
     }
 
-    public void internetconnect() {
+    public void internetConnect() {
         System.out.println(getName() + " " + getCPU() + " " + getOZU() + " " + getHDD());
         System.out.println("Is connected to the Internet");
         System.out.println("");
